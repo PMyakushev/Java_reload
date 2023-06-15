@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-13T08:37:56.459159900Z</date>
+  <millis>1686645476459</millis>
+  <nanos>159900</nanos>
+  <sequence>0</sequence>
+  <logger>LoggerTest</logger>
+  <level>WARNING</level>
+  <class>LoggerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование 1</message>
+</record>
+<record>
+  <date>2023-06-13T08:37:56.556115400Z</date>
+  <millis>1686645476556</millis>
+  <nanos>115400</nanos>
+  <sequence>1</sequence>
+  <logger>LoggerTest</logger>
+  <level>INFO</level>
+  <class>LoggerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование 2</message>
+</record>
+</log>
