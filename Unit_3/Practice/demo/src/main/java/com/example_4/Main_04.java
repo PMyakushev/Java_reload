@@ -1,9 +1,11 @@
-package Unit_3.Practice;
+package com.example_4;
 
 /**
  * Напишите метод, который на вход получает коллекцию объектов, а
  * возвращает коллекцию уже без дубликатов.
  */
-public class Lessons_04 {
+public class Main_04 {
+    public static void main(String[] args) {
 
+    }
 }
